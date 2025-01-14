@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 120.5 characters per line of code written</li>
+                        <li>Has approximately 137.9 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -38,8 +38,8 @@
                             01
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">11</span>
+                            <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             02
                         </div>
                         <div class="entry">
@@ -98,13 +98,13 @@
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">9</span>
-                            <div class="bar" style="height: 26.47058823529412px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -164,8 +164,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 4.032258064516129px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 6.451612903225806px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -179,8 +179,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">25</span>
-                                <div class="bar" style="height: 20.161290322580644px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">22</span>
+                                <div class="bar" style="height: 17.741935483870968px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
