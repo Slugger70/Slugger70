@@ -159,13 +159,13 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">21</span>
-                                <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">22</span>
+                                <div class="bar" style="height: 22.916666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">18</span>
-                                <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">17</span>
+                                <div class="bar" style="height: 17.708333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
