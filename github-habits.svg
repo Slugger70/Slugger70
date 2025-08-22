@@ -174,13 +174,13 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">19</span>
-                                <div class="bar" style="height: 20.212765957446805px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">21</span>
+                                <div class="bar" style="height: 22.340425531914892px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">21</span>
-                                <div class="bar" style="height: 22.340425531914892px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">19</span>
+                                <div class="bar" style="height: 20.212765957446805px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
